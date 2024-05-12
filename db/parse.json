@@ -1,0 +1,418 @@
+{
+    "products": {
+        "0": {
+            "name": "Сосиска в тесте",
+            "price": 40,
+            "categoryId": "0",
+            "active": true
+        },
+        "1": {
+            "name": "Пирожок с картофелем",
+            "price": 35,
+            "categoryId": "0",
+            "active": true
+        },
+        "2": {
+            "name": "Пирожок с капустой",
+            "price": 35,
+            "categoryId": "0",
+            "active": true
+        },
+        "3": {
+            "name": "Пирожок с яйцом",
+            "price": 35,
+            "categoryId": "0",
+            "active": true
+        },
+        "4": {
+            "name": "Треугольник с мясом и капустой",
+            "price": 45,
+            "categoryId": "0",
+            "active": true
+        },
+        "5": {
+            "name": "Треугольник с печенью и капустой",
+            "price": 45,
+            "categoryId": "0",
+            "active": true
+        },
+        "6": {
+            "name": "Беляш с мясом",
+            "price": 50,
+            "categoryId": "0",
+            "active": true
+        },
+        "7": {
+            "name": "Пицца школьная",
+            "price": 50,
+            "categoryId": "0",
+            "active": true
+        },
+        "8": {
+            "name": "Хот-дог с сосиской",
+            "price": 50,
+            "categoryId": "0",
+            "active": true
+        },
+        "9": {
+            "name": "Бургер с котлетой",
+            "price": 60,
+            "categoryId": null,
+            "active": true
+        },
+        "10": {
+            "name": "Курник",
+            "price": 50,
+            "categoryId": null,
+            "active": true
+        },
+        "11": {
+            "name": "Ватрушка с творогом",
+            "price": 40,
+            "categoryId": "0",
+            "active": true
+        },
+        "12": {
+            "name": "Булочка с вареным сгущенным молоком",
+            "price": 40,
+            "categoryId": "0",
+            "active": true
+        },
+        "13": {
+            "name": "Булочка с джемом",
+            "price": 40,
+            "categoryId": "0",
+            "active": true
+        },
+        "14": {
+            "name": "Булочка с корицей",
+            "price": 40,
+            "categoryId": "0",
+            "active": true
+        },
+        "15": {
+            "name": "Булочка с яблоком; вишней; смородиной",
+            "price": 40,
+            "categoryId": "0",
+            "active": true
+        },
+        "16": {
+            "name": "Булочка с изюмом",
+            "price": 40,
+            "categoryId": "0",
+            "active": true
+        },
+        "17": {
+            "name": "Плюшка Московская",
+            "price": 35,
+            "categoryId": "0",
+            "active": true
+        },
+        "18": {
+            "name": "Бутерброд с сыром",
+            "price": 25,
+            "categoryId": "0",
+            "active": true
+        },
+        "19": {
+            "name": "Чай с сахаром",
+            "price": 15,
+            "categoryId": "1",
+            "active": true
+        },
+        "20": {
+            "name": "Компот",
+            "price": 20,
+            "categoryId": "1",
+            "active": true
+        },
+        "21": {
+            "name": "Какао с молоком",
+            "price": 20,
+            "categoryId": "1",
+            "active": true
+        },
+        "22": {
+            "name": "Кисель",
+            "price": 15,
+            "categoryId": "1",
+            "active": true
+        },
+        "23": {
+            "name": "Макароны отварные",
+            "price": 35,
+            "categoryId": "2",
+            "active": true
+        },
+        "24": {
+            "name": "Рис отварной",
+            "price": 35,
+            "categoryId": "2",
+            "active": true
+        },
+        "25": {
+            "name": "Гречка рассыпчатая",
+            "price": 35,
+            "categoryId": "2",
+            "active": true
+        },
+        "26": {
+            "name": "Пюре картофельное",
+            "price": 35,
+            "categoryId": "2",
+            "active": true
+        },
+        "27": {
+            "name": "Пюре гороховое",
+            "price": 30,
+            "categoryId": "2",
+            "active": true
+        },
+        "28": {
+            "name": "Картофель запеченный под сыром",
+            "price": 50,
+            "categoryId": "2",
+            "active": true
+        },
+        "29": {
+            "name": "Брокколи",
+            "price": 40,
+            "categoryId": "2",
+            "active": true
+        },
+        "30": {
+            "name": "Капуста тушенная",
+            "price": 40,
+            "categoryId": "2",
+            "active": true
+        },
+        "31": {
+            "name": "Рис с овощами",
+            "price": 45,
+            "categoryId": "2",
+            "active": true
+        },
+        "32": {
+            "name": "Каши молочные",
+            "price": 35,
+            "categoryId": "2",
+            "active": true
+        },
+        "33": {
+            "name": "Омлет натуральный",
+            "price": 40,
+            "categoryId": null,
+            "active": true
+        },
+        "34": {
+            "name": "Запеканка из творога с соусом",
+            "price": 55,
+            "categoryId": null,
+            "active": true
+        },
+        "35": {
+            "name": "Плов с курицей",
+            "price": 70,
+            "categoryId": "3",
+            "active": true
+        },
+        "36": {
+            "name": "Плов с говядиной",
+            "price": 75,
+            "categoryId": "3",
+            "active": true
+        },
+        "37": {
+            "name": "Отбивная из курицы",
+            "price": 85,
+            "categoryId": "3",
+            "active": true
+        },
+        "38": {
+            "name": "Курица запеченная",
+            "price": 55,
+            "categoryId": "3",
+            "active": true
+        },
+        "39": {
+            "name": "Курица в сливочном соусе",
+            "price": 75,
+            "categoryId": "3",
+            "active": true
+        },
+        "40": {
+            "name": "Гуляш из говядины",
+            "price": 75,
+            "categoryId": "3",
+            "active": true
+        },
+        "41": {
+            "name": "Жаркое по домашнему",
+            "price": 75,
+            "categoryId": "3",
+            "active": true
+        },
+        "42": {
+            "name": "Голубцы с мясом и рисом",
+            "price": 55,
+            "categoryId": "3",
+            "active": true
+        },
+        "43": {
+            "name": "Перец фаршированный",
+            "price": 55,
+            "categoryId": "3",
+            "active": true
+        },
+        "44": {
+            "name": "Бифштекс с яйцом",
+            "price": 85,
+            "categoryId": "3",
+            "active": true
+        },
+        "45": {
+            "name": "Люля из курицы",
+            "price": 75,
+            "categoryId": "3",
+            "active": true
+        },
+        "46": {
+            "name": "Люля из говядины",
+            "price": 75,
+            "categoryId": "3",
+            "active": true
+        },
+        "47": {
+            "name": "Котлета из говядины",
+            "price": 55,
+            "categoryId": "3",
+            "active": true
+        },
+        "48": {
+            "name": "Котлета из курицы",
+            "price": 55,
+            "categoryId": "3",
+            "active": true
+        },
+        "49": {
+            "name": "Тефтели из говядины",
+            "price": 50,
+            "categoryId": "3",
+            "active": true
+        },
+        "50": {
+            "name": "Печень по строгановски",
+            "price": 55,
+            "categoryId": "3",
+            "active": true
+        },
+        "51": {
+            "name": "Оладьи из печени",
+            "price": 55,
+            "categoryId": "3",
+            "active": true
+        },
+        "52": {
+            "name": "Сосиска отварная с соусом",
+            "price": 45,
+            "categoryId": "3",
+            "active": true
+        },
+        "53": {
+            "name": "Суп ассортиментный постный",
+            "price": 40,
+            "categoryId": "4",
+            "active": true
+        },
+        "54": {
+            "name": "Супы на мясном бульоне",
+            "price": 50,
+            "categoryId": "4",
+            "active": true
+        },
+        "55": {
+            "name": "Суп с фрикадельками",
+            "price": 60,
+            "categoryId": "4",
+            "active": true
+        },
+        "56": {
+            "name": "Салат из белокочанной капусты",
+            "price": 35,
+            "categoryId": "5",
+            "active": true
+        },
+        "57": {
+            "name": "Салат витаминный",
+            "price": 35,
+            "categoryId": "5",
+            "active": true
+        },
+        "58": {
+            "name": "Салат из свеклы отварной",
+            "price": 35,
+            "categoryId": "5",
+            "active": true
+        },
+        "59": {
+            "name": "Салат из моркови с сахаром",
+            "price": 35,
+            "categoryId": "5",
+            "active": true
+        },
+        "60": {
+            "name": "Винегрет овощной",
+            "price": 45,
+            "categoryId": "5",
+            "active": true
+        },
+        "61": {
+            "name": "Винегрет овощной с фасолью",
+            "price": 48,
+            "categoryId": "5",
+            "active": true
+        },
+        "62": {
+            "name": "Салат из редьки",
+            "price": 35,
+            "categoryId": "5",
+            "active": true
+        },
+        "63": {
+            "name": "Салат из свежих помидоров и огурцов",
+            "price": 35,
+            "categoryId": "5",
+            "active": true
+        },
+        "64": {
+            "name": "Салат из соленых огурцов с луком",
+            "price": 40,
+            "categoryId": "5",
+            "active": true
+        },
+        "65": {
+            "name": "Салат из квашенной капусты",
+            "price": 40,
+            "categoryId": "5",
+            "active": true
+        },
+        "66": {
+            "name": "Салат Оливье",
+            "price": 45,
+            "categoryId": "5",
+            "active": true
+        },
+        "67": {
+            "name": "Салат крабовый",
+            "price": 45,
+            "categoryId": "5",
+            "active": true
+        },
+        "68": {
+            "name": "Салат Цезарь",
+            "price": 55,
+            "categoryId": "5",
+            "active": true
+        }
+    }
+}

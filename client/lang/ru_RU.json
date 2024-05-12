@@ -1,0 +1,43 @@
+{
+  "lang.countryflag": "\uD83C\uDDF7\uD83C\uDDFA",
+
+  "start.message": "Привет, %{}%! Я - бот ...",
+  "success.message": "Операция успешно выполнена.",
+  "error.message": "<b>[Ошибка]:</b> <span class=\"tg-spoiler\">%{}%</span>",
+  "unknown.command.message": "Неизвестная команда.",
+  "permissons.getsecretkey": "Введите ключевое слово:",
+
+  "login.message.confirm": "Перед тем как верифицироваться через платформу <b>дневник.ру</b>, вы должны дать согласие на то, что бот будет иметь следущие данные аккаунта:\n1. Логин\n2. ФИО\n3. Номер и буква класса\n4. Фотография\n5. Дата рождения\nДанные о пароле <b>НЕ сохраняются</b>.\nДля согласия выполните команду <span class=\"tg-spoiler\">/confirm</span>",
+  "login.message.warn.already": "Вы уже верифицировались.",
+  "login.message.warn.busy": "Данный логин уже использовали для верификации.",
+  "login.message.wait.1": "<b>Выполняется вход...</b>",
+  "login.message.wait.2": "<b>Удаление данных из локальной памяти...</b>",
+  "login.message.username": "Введите логин от дневника.ру:",
+  "login.message.password": "Введите пароль от дневника.ру:",
+  "login.message.welcome": "Добро пожаловать, %{}%!",
+
+  "unlink.message.warn": "У вас нет привязанного аккаунта.",
+  "unlink.message.success": "Аккаунт успешно отвязан.",
+
+  "order.message.warn": "Перед тем, как сделать заказ, верифицируйтесь через дневник.ру.",
+  "order.message.category": "<b>Выберите категорию:</b>",
+  "order.message.product": "<b>[%{}%] Выберите продукт:</b>",
+  "order.message.cart.add": "Товар <b>\"%{}%\"</b> успешно добавлен в корзину.",
+
+  "cart.message": "Ваша корзина:",
+  "cart.price": "Итоговая цена: %{}% ₽",
+  "cart.order": "Сделать заказ \uD83D\uDCB3",
+  "cart.message.warn": "Перед тем, как зайти в корзину, верифицируйтесь через дневник.ру.",
+
+  "inlinebutton.left": "<<",
+  "inlinebutton.right": ">>",
+  "inlinebutton.empty": " ",
+  "inlinebutton.remove": "❌",
+
+  "button.login": "\uD83D\uDEAA верифицироваться \uD83D\uDD11",
+  "button.order": "\uD83C\uDF4A заказать \uD83D\uDCB3",
+  "button.cart": "\uD83D\uDCDD корзина \uD83D\uDED2",
+  "button.unlink": "\uD83D\uDEAA отвязать аккаунт \uD83D\uDD11",
+
+  "button.changelang": "%{}% Сменить язык %{}%"
+}

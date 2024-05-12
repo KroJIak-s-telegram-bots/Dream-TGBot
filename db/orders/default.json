@@ -1,0 +1,17 @@
+{
+    "products": [
+        {
+            "name": "null",
+            "price": 0,
+            "category": "null",
+            "active": false,
+            "callbackData": "null"
+        }
+    ],
+    "categories": [
+        {
+            "name": "null",
+            "callbackData": "null"
+        }
+    ]
+}

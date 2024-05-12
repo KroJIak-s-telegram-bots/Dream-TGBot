@@ -1,0 +1,41 @@
+{
+  "lang.countryflag": "\uD83C\uDDFA\uD83C\uDDF8",
+
+  "start.message": "Hi, %{}%! I am bot ...",
+  "success.message": "The operation was completed successfully.",
+  "error.message": "<b>[Error]:</b> <span class=\"tg-spoiler\">%{}%</span>",
+  "unknown.command.message": "Unknown command.",
+  "permissons.getsecretkey": "Enter the keyword:",
+
+  "login.message.confirm": "Before verifying through the platform <b>dnevnik.ru</b>, you must agree that the bot will have the following account details:\n1. Login\n2. Full name\n3. Class number and letter\n4. Photo\n5. Date of birth\nThe password data is <b>NOT saved</b>.\nTo agree, run the command <span class=\"tg-spoiler\">/confirm</span>",
+  "login.message.warn.already": "You have already verified through.",
+  "login.message.warn.busy": "This username has already been used for verification.",
+  "login.message.wait.1": "<b>The login is in progress...</b>",
+  "login.message.wait.2": "<b>Deleting data from local memory...</b>",
+  "login.message.username": "Enter the login from dnevnik.ru:",
+  "login.message.password": "Enter the password from dnevnik.ru:",
+  "login.message.welcome": "Welcome, %{}%!",
+
+  "unlink.message.warn": "You don't have a linked account.",
+  "unlink.message.success": "The account has been successfully unlinked.",
+
+  "order.message.warn": "Before making an order, verify via dnevnik.ru.",
+  "order.message.category": "<b>Select a category:</b>",
+  "order.message.product": "<b>[%{}%] Select a product:</b>",
+  "order.message.cart.add": "The product <b>\"%{}%\"</b> has been successfully added to the cart.",
+
+  "cart.message": "Your cart:",
+  "cart.message.warn": "Before entering the shopping cart, verify through dnevnik.ru.",
+
+  "inlinebutton.left": "<<",
+  "inlinebutton.right": ">>",
+  "inlinebutton.empty": " ",
+  "inlinebutton.remove": "❌",
+
+  "button.login": "\uD83D\uDEAA verify \uD83D\uDD11",
+  "button.order": "\uD83D\uDEAA order \uD83D\uDD11",
+  "button.cart": "\uD83D\uDCDD cart \uD83D\uDED2",
+  "button.unlink": "\uD83D\uDEAA unlink the account\uD83D\uDD11",
+
+  "button.changelang": "%{}% Change the language %{}%"
+}
